@@ -1,0 +1,7 @@
+black[d,jupyter,python2]
+jupyter
+jupyterlab
+jupyter_contrib_nbextensions
+nb_black
+pandas
+RISE
